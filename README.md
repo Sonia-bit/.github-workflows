@@ -1,2 +1,2 @@
 # .github-workflows
-Test app automastion
+Test app automation
